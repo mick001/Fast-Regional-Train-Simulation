@@ -1,4 +1,4 @@
-## Fast Regional Train Simulation Project
+## Fast Regional Train Simulation
 
 The project aims to model a fast regional train. This is a project I was assigned during my studies.
 
