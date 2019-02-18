@@ -1,6 +1,6 @@
 ## Fast Regional Train Simulation
 
-The project aims to model a fast regional train. This is a project I was assigned during my studies.
+The project aims to model a fast regional train along a segment of the railway line Milano-Genova. This is a project I was assigned during my studies.
 
 ---
 
@@ -9,7 +9,7 @@ The project is structured as follows:
 
 1. Simulation written in Python.
 2. Simulation data results in .csv.
-3. Report in pdf.
+3. Report in pdf containing the traction diagrams.
 
 
 ### Project report structure
